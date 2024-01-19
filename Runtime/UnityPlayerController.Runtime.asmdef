@@ -1,0 +1,22 @@
+{
+    "name": "UnityPlayerController.Runtime",
+    "rootNamespace": "UnityPlayerController",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.Collections",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Entities",
+        "UnityUtility.Runtime",
+        "UnityGameLoop.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

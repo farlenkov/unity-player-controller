@@ -1,0 +1,15 @@
+{
+  "name": "com.farlenkov.unity-player-controller",
+  "displayName": "UNITY / PLAYER CONTROLLER",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Unity Player Controller",
+  "keywords": [
+    ""
+  ],
+  "type": "library",
+  "author": {
+    "name": "Mike Farlenkov",
+    "url": "https://farlenkov.com"
+  }
+}
